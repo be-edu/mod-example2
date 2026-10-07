@@ -1,3 +1,3 @@
 module github.com/be-edu/mod-example2
 
-go 1.26
+go 1.27
